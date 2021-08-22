@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Blog Using React and Tailwind CSS and Firebase as DB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
